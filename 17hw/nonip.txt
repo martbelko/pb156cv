@@ -1,0 +1,10 @@
+SNMP (Simple Network Management Protocol)
+
+- protokol umožňujúci monitorovanie a správu zariadení v IP sieti
+
+- primárne bol navrhnutý pre účely správy siete a týkal sa základných sieťových prvkov, napr.
+smerovačov čomu zodpovedala štandardná MIB báza.Protokol sa však nakoniec uplatnil
+aj pri správe a monitorovaní ďalších zariadení pripojených v sieti, napríklad sieťových
+tlačiarní, serverov či koncových užívateľských staníc.
+
+- 3 verzie protokolu: SNMPv1 - SNMPv3
